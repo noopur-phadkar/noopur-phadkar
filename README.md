@@ -4,6 +4,12 @@ Welcome to my page!
 
 I am a Master of Science in Computer Science graduate from Rochester Institute of Technology.
 
+## Languages and Tools:
+- **Programming Languages:** `Kotlin`, `Java`, `Python`, `GraphQL`, `SQL`, `Cypher`, `JavaScript`, `ReactJS`, `Node.js`, `HTML`, `CSS`, `C`, `C++`
+- **Databases:** `MySQL`, `Oracle DB`, `PostgreSQL`, `MongoDB`, `Cassandra`, `ElasticSearch`, `Neo4j`
+- **Cloud Computing:** `AWS`, `Azure`
+- **Frameworks:** `Kubernetes`, `Docker`, `Hadoop`, `Flask`, `Django`
+
 ### What I Do
 - 💻 **Software Development**: Proficient in a broad spectrum of programming languages including Java, Kotlin, Python, JavaScript, ReactJS, C, C++, SQL, and more.
 
@@ -25,12 +31,6 @@ I'm open to collaborating on innovative projects and discussing ideas. Feel free
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/noopur-phadkar/noopur-phadkar/assets/98292727/fe39fba5-5d8f-4eec-85df-44d88845bc7f" alt="image" width="15" height="auto"> noopurphadkar@gmail.com
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/noopur-phadkar/noopur-phadkar/assets/98292727/767b2b9e-bfe4-4b69-bb74-b7b4f77327f0" alt="image" width="15" height="auto"> [noopurphadkar](https://www.linkedin.com/in/noopurphadkar/)
-
-## Languages and Tools:
-- **Programming Languages:** `Kotlin`, `Java`, `Python`, `GraphQL`, `SQL`, `Cypher`, `JavaScript`, `ReactJS`, `Node.js`, `HTML`, `CSS`, `C`, `C++`
-- **Databases:** `MySQL`, `Oracle DB`, `PostgreSQL`, `MongoDB`, `Cassandra`, `ElasticSearch`, `Neo4j`
-- **Cloud Computing:** `AWS`, `Azure`
-- **Frameworks:** `Kubernetes`, `Docker`, `Hadoop`, `Flask`, `Django`
 
 ## Certifications:
 <img src="https://github.com/noopur-phadkar/noopur-phadkar/assets/98292727/135068ac-8d5b-4864-9cc8-b44ea3bcc1a4" alt="aws_cloud_practitoner_certificate" width="200"/>
