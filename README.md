@@ -1,21 +1,21 @@
-### 👋 Hi there. I am  Noopur Phadkar.
+# 👋 Hi there. I am  Noopur Phadkar.
 
-I'm a recent Master of Science graduate in Computer Science from Rochester Institute of Technology
+Welcome to my page!
 
-<!--
+I am a Master of Science in Computer Science graduate from Rochester Institute of Technology.
+
 ### What I Do
-- 💻 **Software Development**: Proficient in a range of programming languages including Java, Kotlin, Python, JavaScript, ReactJS, C, C++, SQL, and Git. I specialize in developing scalable and efficient software solutions that meet user needs.
+- 💻 **Software Development**: Proficient in a broad spectrum of programming languages including Java, Kotlin, Python, JavaScript, ReactJS, C, C++, SQL, and more.
 
-- ☁️ **Cloud Computing and AWS**: Experienced in architecting and deploying scalable web applications using AWS services. My expertise covers EC2, S3, Lambda, RDS, API Gateway, and more, enabling me to build robust cloud-native applications.
+- ☁️ **Cloud Computing**: With extensive experience in AWS, I excel in architecting and deploying scalable cloud applications.
 
-- 🛠️ **API Design and Development**: Passionate about APIs and their potential to connect software and services seamlessly. My interest lies in creating and managing APIs that enhance application functionality and user experience.
+- 🛠️ **API Design and Development**: My previous internship experiences and academic projects have honed my skills in developing and integrating APIs using Java, Kotlin, and Python.
 
-- 🗄️ **Database Management**: Skilled in managing both relational and non-relational databases. My experience with MySQL, PostgreSQL, MongoDB, and ElasticSearch allows me to design, optimize, and maintain databases that support complex data-driven applications.
+- 🤖 **Machine Learning Engineering**: I am skilled in using Python libraries and frameworks for machine learning. My work includes projects like recommendation systems, handwriting analysis tools, and predictive models.
 
-- 📊 **Data Science and Analysis**: Fascinated by the power of data to inform decisions, drive innovation, and solve problems. I employ Python, along with machine learning algorithms and data analysis techniques, to uncover insights and patterns in data.
+- 🗄️ **Database Management**: Skilled in managing both relational and non-relational databases. My experience encompasses everything from schema design and query optimization to implementing security measures in database management.
 
-- 🤝 **Project Management and Collaboration**: Effective at working within cross-functional teams, managing projects from inception to completion, and ensuring that solutions align with business goals and user needs.
--->
+- 📊 **Data Science and Analysis**:  My academic projects reflect my strong capabilities in machine learning and data analysis.
 
 ## Connect With Me:
 I'm open to collaborating on innovative projects and discussing ideas. Feel free to reach out to me for collaborations or a chat about the potential of technology!
@@ -31,6 +31,10 @@ I'm open to collaborating on innovative projects and discussing ideas. Feel free
 - **Databases:** `MySQL`, `Oracle DB`, `PostgreSQL`, `MongoDB`, `Cassandra`, `ElasticSearch`, `Neo4j`
 - **Cloud Computing:** `AWS`, `Azure`
 - **Frameworks:** `Kubernetes`, `Docker`, `Hadoop`, `Flask`, `Django`
+
+## Certifications:
+<img src="https://github.com/noopur-phadkar/noopur-phadkar/assets/98292727/135068ac-8d5b-4864-9cc8-b44ea3bcc1a4" alt="aws_cloud_practitoner_certificate" width="200"/>
+
 
 ## Projects:
 - 🎧 **Podify: Podcast Recommendation System**: A system that delivers personalized podcast recommendations by analyzing podcast content through entity identification and sentiment analysis, backed by AWS cloud infrastructure.
