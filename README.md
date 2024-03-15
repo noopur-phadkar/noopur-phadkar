@@ -27,6 +27,27 @@ I'm open to collaborating on innovative projects and discussing ideas. Feel free
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/noopur-phadkar/noopur-phadkar/assets/98292727/767b2b9e-bfe4-4b69-bb74-b7b4f77327f0" alt="image" width="15" height="auto"> [noopurphadkar](https://www.linkedin.com/in/noopurphadkar/)
 
 ## Languages and Tools:
+- **Programming Languages:** `Kotlin`, `Java`, `Python`, `GraphQL`, `SQL`, `Cypher`, `JavaScript`, `ReactJS`, `Node.js`, `HTML`, `CSS`, `C`, `C++`
+- **Databases:** `MySQL`, `Oracle DB`, `PostgreSQL`, `MongoDB`, `Cassandra`, `ElasticSearch`, `Neo4j`
+- **Cloud Computing:** `AWS`, `Azure`
+- **Frameworks:** `Kubernetes`, `Docker`, `Hadoop`, `Flask`, `Django`
+
+## Projects:
+- 🎧 **Podify: Podcast Recommendation System**: A system that delivers personalized podcast recommendations by analyzing podcast content through entity identification and sentiment analysis, backed by AWS cloud infrastructure.
+
+- 🎙️ **Podcast Summarizer**: A web application that provides concise summaries of podcasts, leveraging AWS's natural language processing services to extract meaningful insights from audio content.
+
+- 🎵 **Song Decade & Century Classifier**: Utilizing Spotify's vast dataset to classify songs by decade and century, this project showcases my ability to blend music data with machine learning for insightful analysis.
+
+- 📊 **EV Range Analysis - Washington State**: This study analyzes the adoption and usage of electric vehicles in Washington State and develops a predictive model to estimate the electric range of an electric vehicle based on its attributes. Created a predictive model that can accurately estimate the electric range of electric vehicles based on various attributes
+
+- ✍️ **Handwriting Analysis Software**: A tool that uses deep learning to analyze handwriting, providing personality insights, showcasing my interest in the intersection of AI and psychology.
+
+- 💼 **CosmoTrade Online Trading Portal**: Developed for CosmoTrade, this portal connects construction material manufacturers with buyers, demonstrating my skills in web development and database management.
+
+- 📅 **Eventer**: A website that aggregates and displays information on university events, highlighting my abilities in database management and web development.
+
+<!--
 <p align="left"> 
   <h4>Programming Languages:</h4> 
     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
@@ -78,18 +99,4 @@ I'm open to collaborating on innovative projects and discussing ideas. Feel free
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
     <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  
 </p>
-
-## Projects:
-- 🎧 **Podify: Podcast Recommendation System**: A system that delivers personalized podcast recommendations by analyzing podcast content through entity identification and sentiment analysis, backed by AWS cloud infrastructure.
-
-- 🎙️ **Podcast Summarizer**: A web application that provides concise summaries of podcasts, leveraging AWS's natural language processing services to extract meaningful insights from audio content.
-
-- 🎵 **Song Decade & Century Classifier**: Utilizing Spotify's vast dataset to classify songs by decade and century, this project showcases my ability to blend music data with machine learning for insightful analysis.
-
-- 📊 **EV Range Analysis - Washington State**: This study analyzes the adoption and usage of electric vehicles in Washington State and develops a predictive model to estimate the electric range of an electric vehicle based on its attributes. Created a predictive model that can accurately estimate the electric range of electric vehicles based on various attributes
-
-- ✍️ **Handwriting Analysis Software**: A tool that uses deep learning to analyze handwriting, providing personality insights, showcasing my interest in the intersection of AI and psychology.
-
-- 💼 **CosmoTrade Online Trading Portal**: Developed for CosmoTrade, this portal connects construction material manufacturers with buyers, demonstrating my skills in web development and database management.
-
-- 📅 **Eventer**: A website that aggregates and displays information on university events, highlighting my abilities in database management and web development.
+->
