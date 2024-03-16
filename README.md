@@ -2,7 +2,7 @@
 
 Welcome to my page!
 
-I am a Master of Science in Computer Science graduate from Rochester Institute of Technology.
+I am a MSCS graduate from Rochester Institute of Technology.
 
 ## Languages and Tools:
 - **Programming Languages:** `Kotlin`, `Java`, `Python`, `GraphQL`, `SQL`, `Cypher`, `JavaScript`, `ReactJS`, `Node.js`, `HTML`, `CSS`, `C`, `C++`
