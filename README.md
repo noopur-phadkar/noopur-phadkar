@@ -1,8 +1,10 @@
-# 👋 Hi there. I am  Noopur Phadkar.
+# 👋 Hi there. I'm Noopur Phadkar. Welcome to my GitHub profile!
 
-Welcome to my page!
+I'm a recent graduate with a Master of Science in Computer Science from Rochester Institute of Technology.
 
-I am a MSCS graduate from Rochester Institute of Technology.
+Through coursework, projects, and hands-on learning experiences, I've gained proficiency in multiple programming languages and techniques, including Java, Python, and JavaScript, as well as frameworks like ReactJS and Flask. 
+
+I am enthusiastic about exploring new technologies and continuously learning and growing as a software developer. I'm eager to collaborate on exciting projects and contribute to the vibrant developer community here on GitHub. Feel free to explore my repositories and reach out if you'd like to connect or collaborate on any projects. Let's innovate together! 🚀
 
 ## Languages and Tools:
 - **Programming Languages:** `Kotlin`, `Java`, `Python`, `GraphQL`, `SQL`, `Cypher`, `JavaScript`, `ReactJS`, `Node.js`, `HTML`, `CSS`, `C`, `C++`
