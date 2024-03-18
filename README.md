@@ -21,7 +21,7 @@ I am a MSCS graduate from Rochester Institute of Technology.
 
 - 🗄️ **Database Management**: Skilled in managing both relational and non-relational databases. My experience encompasses everything from schema design and query optimization to implementing security measures in database management.
 
-- 📊 **Data Science and Analysis**:  My academic projects reflect my strong capabilities in machine learning and data analysis.
+- 📊 **Data Science and Analysis**:  I have worked on a diverse set of data analysis projects from financial data analysis to market research and customer behavior analysis. I have employed statistical techniques and natural language processing techniques to perform sentiment analysis.
 
 ## Connect With Me:
 I'm open to collaborating on innovative projects and discussing ideas. Feel free to reach out to me for collaborations or a chat about the potential of technology!
