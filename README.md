@@ -4,10 +4,10 @@ I'm a recent graduate with a Master of Science in Computer Science from Rocheste
 
 Through coursework, projects, and hands-on learning experiences, I've gained proficiency in multiple programming languages and techniques, including Java, Python, and JavaScript, as well as frameworks like ReactJS and Flask. 
 
-I am enthusiastic about exploring new technologies and continuously learning and growing as a software developer. I'm eager to collaborate on exciting projects and contribute to the vibrant developer community here on GitHub. Feel free to explore my repositories and reach out if you'd like to connect or collaborate on any projects. Let's innovate together! 🚀
+I am enthusiastic about exploring new technologies and continuously learning and growing as a software developer. I'm eager to collaborate on exciting projects and contribute to the vibrant developer community here on GitHub. Feel free to explore my repositories and reach out if you'd like to connect or collaborate on any projects.
 
 ## Languages and Tools:
-- **Programming Languages:** `Kotlin`, `Java`, `Python`, `GraphQL`, `SQL`, `Cypher`, `JavaScript`, `ReactJS`, `Node.js`, `HTML`, `CSS`, `C`, `C++`
+- **Programming Languages:** `Kotlin`, `Java`, `Python`, `R`, `GraphQL`, `SQL`, `Cypher`, `JavaScript`, `ReactJS`, `Node.js`, `HTML`, `CSS`, `C`, `C++`
 - **Databases:** `MySQL`, `Oracle DB`, `PostgreSQL`, `MongoDB`, `Cassandra`, `ElasticSearch`, `Neo4j`
 - **Cloud Computing:** `AWS`, `Azure`
 - **Frameworks:** `Kubernetes`, `Docker`, `Hadoop`, `Flask`, `Django`
